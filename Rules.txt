@@ -1,0 +1,8 @@
+RULES OF THE GAME
+
+You need to catch as many gifts as possible.
+If you miss a gift, one heart will be taken from you.
+Initially, 3 hearts are given.
+If you use them all up, the game will be over.
+
+This is all.
